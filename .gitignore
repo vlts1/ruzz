@@ -1,0 +1,8 @@
+build/
+firebase_options.dart
+generated_plugin_registrant.dart
+.DS_Store
+pubspec.lock
+.dart_tool/
+.packages
+.flutter-plugins-dependencies
