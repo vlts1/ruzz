@@ -1,4 +1,4 @@
-# Ruzz Mobile App
+# Ruzz: Programming Updates Tracker
  
 Ruzz is a free open source app that allows its users to track new features and changes in popular programming languages, frameworks, libraries and editors. 
 
